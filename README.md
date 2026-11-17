@@ -42,7 +42,7 @@ Uptech Infoway Pvt. Ltd. | 4 Months
 ## Connect With Me
 
 - LinkedIn: https://www.linkedin.com/in/vibhuti-koriya2412
-- GitHub: https://github.com/YOUR-USERNAME
+- GitHub: https://github.com/vibhuti2004
 
 ---
 
