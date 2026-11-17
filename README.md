@@ -22,6 +22,7 @@ I am a B.Sc. Information Technology graduate interested in Data Analytics and Bu
 ## My Projects
 
 ### 1. Sales Data Analysis
+🔗https://github.com/vibhuti2004/Data-Analytics-Portfolio
 - Analyzed 5,000 sales records.
 - Performed data cleaning using Python and Pandas.
 - Created Excel analysis and a Power BI dashboard.
